@@ -6,7 +6,6 @@ The project was developed using :
 * React js
 * React-Router-Dom
 * React-Dom
-* CSS
 * Axios
 * JSX
 * Material UI
