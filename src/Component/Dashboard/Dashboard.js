@@ -97,19 +97,6 @@ function DashboardContent() {
         >
           <Toolbar />
             <Grid container xs={11} sx={{mt:-5, ml:3}}>
-              {/* Chart */}
-              {/* <Grid item xs={12} md={8} lg={9}>
-                <Paper
-                  sx={{
-                    p: 2,
-                    display: 'flex',
-                    flexDirection: 'column',
-                    height: 240,
-                  }}
-                >
-                  <Chart />
-                </Paper>
-              </Grid> */}
              <Outlet />
             </Grid>
         </Box>
